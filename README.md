@@ -5,26 +5,17 @@
 각자 인강 및 자료를 학습한 뒤 내용을 정리하고,
 매주 모여 공유하는 방식으로 진행합니다.
 
----
-
-# Goal
-
-- Kubernetes 기본기 이해
-- 실제 운영 환경 및 DevOps 흐름 학습
-- Helm / Argo CD / CI-CD / Monitoring 등 확장 학습
-- 단순 이론이 아닌 실제 적용 가능한 수준 목표
-- 공유 중심 학습 문화 만들기
 
 ---
-
-# Study Rule
-
 ## 진행 방식
 
 - 각자 정한 강의 및 자료 학습
 - 학습 내용 정리 후 Repository 업로드
 - 매주 공유 세션 진행
 - 질문 / 토론 자유롭게 진행
+
+
+- 위의 내용 학습 후 [discussions](https://github.com/We-Are-Studying/Backend-Tech/discussions) 에 공유합니다. 
 
 ---
 
@@ -46,17 +37,3 @@
 - 실습 내용
 - 어려웠던 점
 - 추가로 조사한 내용
-
----
-
-# Repository Rule
-
-## Directory Structure
-
-```text
-week1/
- ├── your-name.md
- ├── another-name.md
-
-week2/
- ├── your-name.md
